@@ -1,0 +1,1 @@
+[2024年软件设计师中级（软考中级）详细笔记【6】（下午题）试题6 Java 23种设计模式解题技巧（分值15）_软件设计师下午题java技巧-CSDN博客](https://blog.csdn.net/XFanny/article/details/143078263)
